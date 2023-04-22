@@ -1,3 +1,3 @@
-import * as ListApi from "./lsit/list.api";
+import * as ListApi from "./list/list.api";
 
 export const handler = [...Object.values(ListApi)];
